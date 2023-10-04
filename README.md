@@ -8,9 +8,17 @@
 - 📫 How to reach me **shaimaabouassab@gmail.com**
   
 - ⚡ Fun fact **"Fun Fact: I'm not just a code wizard; I'm also an avid photographer 📷. Whether it's capturing the unique personalities of people or the stunning beauty of landscapes, I've been fortunate to document it all. I once captured the most breathtaking sunrise over the mountains . Let's chat about code and photography sometime!"**
-<h3 align="left"> My Resume "CV":</h3>
-    <iframe src=""C:\Users\pc\OneDrive\Bureau\White Brown Simple Teacher Resume (2).pdf"" width="100%" height="500px"></iframe>
+<body>
+    <button onclick="openPdf()">Open PDF</button>
+    <iframe id="pdfFrame" src="" width="100%" height="500px"></iframe>
 
+    <script>
+        function openPdf() {
+            var pdfFrame = document.getElementById("pdfFrame");
+            pdfFrame.src = "C:\\Users\\pc\\OneDrive\\Bureau\\White Brown Simple Teacher Resume (2).pdf";
+        }
+    </script>
+</body>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

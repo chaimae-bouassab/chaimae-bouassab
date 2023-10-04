@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **"I have a stReact.js and Node.js, further validated by the completion of a certification program at Gomycode Community."**
+- 💬 Ask me about **"React.js and Node.js, further validated by the completion of a certification program at Gomycode Community."**
 
 - 📫 How to reach me **shaimaabouassab@gmail.com**
 

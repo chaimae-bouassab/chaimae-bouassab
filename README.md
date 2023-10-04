@@ -12,15 +12,7 @@
 
 Click the button below to view my resume:
 
-<button onclick="openPdf()">Open PDF</button>
-<iframe id="pdfFrame" src="" width="100%" height="500px"></iframe>
-
-<script>
-    function openPdf() {
-        var pdfFrame = document.getElementById("pdfFrame");
-        pdfFrame.src = "C:\\Users\\pc\\OneDrive\\Bureau\\White Brown Simple Teacher Resume (2).pdf";
-    }
-</script>
+https://www.canva.com/design/DAFoEYGsoL4/9JCwX7_XJoMoK3sRdRw2kw/edit?utm_content=DAFoEYGsoL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 <h3 align="left">Connect with me:</h3>

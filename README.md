@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chaimae Bouassab</h1>
 <h3 align="center">👋 Hello! I'm Chaimae Bouassab.My field of study for my bachelor's degree is Computer Application Development Engineering.A passionate third-year student pursuing a degree in Software Development at "Faculty of Science and Technology in Tangier (FSTT)". Aspiring to make a mark in the world of technology, I am constantly exploring and learning about cutting-edge software development practices and tools.</h3>
 
+<h3>I am a student studying Information Technology Application Development Engineering at FSTT. I have pursued My studies in preparatory classes and have a strong passion for programming and mathematical logic. I have obtained certifications in front-end development with React.js and Excel. I have also participated in the international program Soliya, focusing on intercultural understanding. The author has achieved advanced levels in English and French language proficiency. I possess solid knowledge in programming languages such as Java, C++, Python, and C, as well as front-end development with React.js and Node.js. i am also familiar with JavaScript, HTML, CSS, and MySQL. I have a strong enthusiasm for web development and have excellent organizational skills for project management.</h3>
+
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **"React.js and Node.js, further validated by the completion of a certification program at Gomycode Community."**

@@ -10,12 +10,7 @@
 - 📫 How to reach me **shaimaabouassab@gmail.com**
   
 - ⚡ Fun fact **"Fun Fact: I'm not just a code wizard; I'm also an avid photographer 📷. Whether it's capturing the unique personalities of people or the stunning beauty of landscapes, I've been fortunate to document it all. I once captured the most breathtaking sunrise over the mountains . Let's chat about code and photography sometime!"**
-## My Resume "CV"
-
-Click the button below to view my resume:
-
-https://www.canva.com/design/DAFoEYGsoL4/9JCwX7_XJoMoK3sRdRw2kw/edit?utm_content=DAFoEYGsoL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+## 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
